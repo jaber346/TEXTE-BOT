@@ -1,5 +1,5 @@
 {
-  "name": "NOVA XMD V1*",
+  "name": "NOVA-XMD-V1*",
   "version": "1.0.0",
   "description": "Multi-user WhatsApp bot with Baileys 7.0.0rc9",
   "main": "server.js",
